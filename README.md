@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NelisaTina
+- 👋 Hi, I’m @Tina
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning how to code and hope to be Software developer through @SheCodes
 - 📫 How to reach me just pop me an email at tinanelisa@gmail.com
